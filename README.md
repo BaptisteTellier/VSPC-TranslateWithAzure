@@ -1,5 +1,3 @@
-# VSPC-TranslateWithAzure
-
 # AZURE TRANSLATION SCRIPT for VSPC v9
 
 ## USAGE INSTRUCTIONS
@@ -8,6 +6,7 @@
 ```bash
 pip install azure-ai-translation-text
 ```
+- Azure Cognitives Services subscription (Available in Azure)
 
 ### Configuration:
 Edit these variables in the script:
@@ -72,6 +71,11 @@ ACTION: 'Action',
 - ✓ Ready to use immediately
 - ✓ Proper escaping
 - ✓ Correct formatting
+
+---
+
+## Installation
+-  KB : https://www.veeam.com/kb4544
 
 ---
 
