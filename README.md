@@ -3,6 +3,7 @@
 ## USAGE INSTRUCTIONS
 
 ### Prerequisites:
+- Python
 ```bash
 pip install azure-ai-translation-text
 ```
@@ -74,7 +75,7 @@ ACTION: 'Action',
 
 ---
 
-## Installation
+## INSTALLATION / SETUP
 -  KB : https://www.veeam.com/kb4544
 
 ---
