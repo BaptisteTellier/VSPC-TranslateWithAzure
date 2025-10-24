@@ -39,10 +39,9 @@ output_file = "path/to/en.overwrite.js"
 - Finnish: "fi"
 - etc.
 
-supported lang https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
+- supported lang https://learn.microsoft.com/en-us/azure/ai-services/translator/language-support
 
-sample code https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/translation/azure-ai-translation-text/samples/sample_text_translation_translate.py
-
+- sample code https://github.com/Azure/azure-sdk-for-python/blob/main/sdk/translation/azure-ai-translation-text/samples/sample_text_translation_translate.py
 
 ### Run:
 ```bash
